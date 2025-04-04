@@ -33,7 +33,7 @@ for i in range(20):
             color=color.white,
             model="cube",
             position=(j, 0, i),
-            texture="grass.png",
+            texture="grass_3d.png",
             parent=scene,
             origin_y=0.5,
         )
