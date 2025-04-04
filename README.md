@@ -1,1 +1,1 @@
-# download the png file and the file path in texture
+# download the png file and add the file path in texture
